@@ -13,3 +13,5 @@ Dejo adjunta mi configuración de *Sway*.
 Al final, caí en lo normal y en lo gráfico completamente, instalé *KDE Plasma* y lo he configurado de una manera más visual y sin tener que escribir línea por línea.
 Adjunto imágenes de todo.
 Gracias por su atención.
+
+[desktop-debian.png]
