@@ -1,9 +1,9 @@
 # Debian-AdSv
----
-#### Configuración inicial de Debian
+
+### Configuración inicial de Debian
 ---
 Comencé instalando Debian sin GUI, y solamente tenía aplicaciones como links2, y moc.
-#### Configuración de Sway en Debian
+### Configuración de Sway en Debian
 ---
 Instalé el manejador de ventanas *Sway* para tener un entorno gráfico y sencillo, algo simple, o eso pensaba yo.
 Al final fue algo completamente diferente y complejo, tenía que conectarme a las redes mediante solicitudes del *wpa_supplicant* y todo desde la línea de comandos.
@@ -14,4 +14,16 @@ Al final, caí en lo normal y en lo gráfico completamente, instalé *KDE Plasma
 Adjunto imágenes de todo.
 Gracias por su atención.
 
-[desktop-debian.png]
+
+---
+
+### Escritorio:
+![desktop view:](desktop-debian.png)
+### Colores:
+![config view:](colors-debian.png)
+### Tema global: (aunque utilicé partes de varios)
+![theme view:](global-theme-debian.png)
+### Splash art:
+![splash-art view:](plasma-splash-debian.png)
+### Fuentes:
+![fonts view:](fonts-debian.png)
