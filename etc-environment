@@ -1,0 +1,3 @@
+
+# wayland enable firefox
+MOZ_ENABLE_WAYLAND=1
